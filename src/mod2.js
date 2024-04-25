@@ -1,0 +1,1 @@
+export default =  {hotdog:4, fries:3}
